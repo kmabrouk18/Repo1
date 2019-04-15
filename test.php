@@ -31,5 +31,6 @@
 
 <body>
 <input type="button" value="F1" onclick="countOccurences([1,2,3,3,3,3,4,4])" />
+	<?php echo date("d-m-Y") ?>
 </body>
 </html>
